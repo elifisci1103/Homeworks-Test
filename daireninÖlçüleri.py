@@ -1,0 +1,5 @@
+yaricap=float(input("Lütfen dairenin yariçapini giriniz."))
+daireAlani=3.14*(yaricap*yaricap)
+daireCevresi=2*(3.14*yaricap)
+print("Dairenin alani:",daireAlani)
+print("Dairenin çevresi:",daireCevresi)
